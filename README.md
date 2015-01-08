@@ -1,4 +1,4 @@
-# grunt-tex-wordcount
+# grunt-tex-wordcount [![Build Status](https://travis-ci.org/grunt-tex/grunt-tex-wordcount.svg?branch=master)](https://travis-ci.org/grunt-tex/grunt-tex-wordcount)
 
 Part of the [grunt-tex](https://github.com/grunt-tex) suite of LaTeX-orientated Grunt tasks.
 
